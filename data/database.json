@@ -1,0 +1,40 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Retrovisor"
+    },
+    {
+      "id": 2,
+      "nome": "Calota"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "username": "ingridyestefany",
+      "senha": "123456"
+    },
+    {
+      "username": "maryanamoreno",
+      "senha": "20061992",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Volante",
+      "tipo": "Controle"
+    }
+  ],
+  "categorias": [
+    {
+    "descricao": "basico"
+    }
+  ],
+    "carrinhos": [
+        {
+      "id": 1,
+      "data":"2023-12-13"
+    }
+    ]
+}
